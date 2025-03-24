@@ -756,11 +756,9 @@ header {
         .download-btn:hover {
             background-color: var(--primary-dark);
         }
-
-        /* Estilos para ícones do Font Awesome */
-.fas {
-  font-size: 1.2rem;
-  color: var(--text-primary);
-  transition: color 0.3s ease;
+      .fas {
+         font-size: 1.2rem;
+         color: var(--text-primary);
+          transition: color 0.3s ease;
 }
 
